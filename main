@@ -1,0 +1,38 @@
+[1mdiff --git a/.idea/workspace.xml b/.idea/workspace.xml[m
+[1mindex efba2d5..5134671 100644[m
+[1m--- a/.idea/workspace.xml[m
+[1m+++ b/.idea/workspace.xml[m
+[36m@@ -4,24 +4,7 @@[m
+     <option name="autoReloadType" value="SELECTIVE" />[m
+   </component>[m
+   <component name="ChangeListManager">[m
+[31m-    <list default="true" id="d80cfc55-4023-4512-9abe-4d852f21bd74" name="Changes" comment="">[m
+[31m-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/session9git/HelloApplication.java" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/session9git/HelloController.java" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/session9git/hello-view.fxml" afterDir="false" />[m
+[31m-    </list>[m
+[32m+[m[32m    <list default="true" id="d80cfc55-4023-4512-9abe-4d852f21bd74" name="Changes" comment="" />[m
+     <option name="SHOW_DIALOG" value="false" />[m
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />[m
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />[m
+[36m@@ -51,6 +34,7 @@[m
+   </component>[m
+   <component name="PropertiesComponent"><![CDATA[{[m
+   "keyToString": {[m
+[32m+[m[32m    "Application.HelloApplication.executor": "Run",[m
+     "RunOnceActivity.OpenProjectViewOnStart": "true",[m
+     "RunOnceActivity.ShowReadmeOnStart": "true",[m
+     "SHARE_PROJECT_CONFIGURATION_FILES": "true",[m
